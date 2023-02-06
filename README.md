@@ -23,7 +23,8 @@ ___
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-___
+
+---
 
 <div align="center">
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orwashams&theme=radical&layout=compact" />
