@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display: flex; flex-direction: row; justify-content:center;">
+<div style="display: flex; justify-content:center;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=orwashams&show_icons=true&theme=radical" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orwashams&theme=radical&layout=compact" />
 </div>
