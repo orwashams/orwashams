@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
   <img alt="github-snake" src="github-snake.svg">
 </picture>
-![snake gif](https://github.com/junnplus/junnplus/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/orwashams/orwashams/blob/output/github-contribution-grid-snake.svg)
 <div align="center">
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orwashams&theme=radical&layout=compact" />
  <br/>
