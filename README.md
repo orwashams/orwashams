@@ -1,5 +1,16 @@
-### Hi there 👋
+### Orwa Shams
 
+I am a:
+- Recent CS Graduate 
+- FrontEnd Developer
+- Working at: [RunnableWeb](http://www.runnableweb.com/)
+- Live Coder (Sometimes): [AdieBuddy](https://twitch.tv/AdieBuddy)
+
+
+#### Contact Information:
+- Email: `orwa735@gmail.com`
+
+- ⚡ Fun fact: I can BeatBox
 <!--
 **orwashams/orwashams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,7 +22,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🖥️ Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 ___
