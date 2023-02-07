@@ -10,7 +10,6 @@ I am a:
 #### Contact Information:
 - Email: `orwa735@gmail.com`
 
-- ⚡ Fun fact: I can BeatBox
 <!--
 **orwashams/orwashams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
