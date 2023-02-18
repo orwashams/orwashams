@@ -4,7 +4,6 @@ I am a:
 - Recent CS Graduate 
 - FrontEnd Developer
 - Working at: [RunnableWeb](http://www.runnableweb.com/)
-- Live Coder (Sometimes): [AdieBuddy](https://twitch.tv/AdieBuddy)
 
 
 #### Contact Information:
