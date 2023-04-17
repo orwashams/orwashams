@@ -2,7 +2,7 @@
 
 I am a:
 - Recent CS Graduate 
-- Fullstack Developer
+- Frontend Developer
 - Working at: [RunnableWeb](http://www.runnableweb.com/)
 
 
