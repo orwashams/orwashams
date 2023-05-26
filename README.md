@@ -1,8 +1,9 @@
 ### Orwa Shams
 
 I am a:
-- Recent CS Graduate 
-- Frontend Developer
+- Software Developer
+- OSS advocate
+- Linux user
 
 #### Contact Information:
 - Email: `orwa735@gmail.com`
