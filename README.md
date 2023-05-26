@@ -1,9 +1,7 @@
 ### Orwa Shams
 
 I am a:
-- Software Developer
-- OSS advocate
-- Linux user
+- Bald Man
 
 #### Contact Information:
 - Email: `orwa735@gmail.com`
