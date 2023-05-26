@@ -2,6 +2,9 @@
 
 I am a:
 - Bald Man
+- Software Developer
+- OSS Advocate
+- Linux User
 
 #### Contact Information:
 - Email: `orwa735@gmail.com`
