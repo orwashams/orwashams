@@ -5,7 +5,6 @@ I am a:
 - Frontend Developer
 - Working at: [RunnableWeb](http://www.runnableweb.com/)
 
-
 #### Contact Information:
 - Email: `orwa735@gmail.com`
 
