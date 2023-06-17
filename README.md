@@ -3,8 +3,7 @@
 I am a:
 - Bald Man
 - Software Developer
-- OSS Advocate
-- Linux User
+- and btw I use NeoVim
 
 #### Contact Information:
 - Email: `orwa735@gmail.com`
