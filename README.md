@@ -3,7 +3,7 @@
 I am a:
 - Bald Man
 - Software Developer
-- and btw I use NeoVim
+- NeoVim user btw
 
 #### Contact Information:
 - Email: `orwa735@gmail.com`
