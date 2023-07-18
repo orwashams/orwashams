@@ -3,10 +3,9 @@
 I am a:
 - Bald Man
 - Software Developer
-- NeoVim user btw
 
 #### Contact Information:
-- Email: `orwa735@gmail.com`
+- Email: `orwa.s.shams@gmail.com`
 
 <!--
 **orwashams/orwashams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
