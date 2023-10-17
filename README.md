@@ -1,5 +1,3 @@
-### Orwa Shams
-
 #### Contact Information:
 - Email: `orwa.s.shams@gmail.com`
 
