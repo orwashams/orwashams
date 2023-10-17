@@ -1,9 +1,5 @@
 ### Orwa Shams
 
-I am a:
-- Bald Man
-- Software Developer
-
 #### Contact Information:
 - Email: `orwa.s.shams@gmail.com`
 
